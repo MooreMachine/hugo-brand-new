@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
 then
-	echo 'use: ./run.sh <PROJ-DIR>'
+	echo 'use: ./run.sh <SAMPLE-SITE-DIR>'
 	exit 1
 fi
 
